@@ -8,8 +8,9 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 
-**Live Demo:** *(Coming soon)*  
-**Repository:** https://github.com/Bangkah/yourstory-community
+**Community Platform:** https://github.com/Bangkah/yourstory-community  
+**Company:** [YourStory Portfolio](https://yourstory-portfolio.vercel.app/)  
+**Main Product:** [YourStory App](https://yourstory-orcin.vercel.app/)
 
 ---
 
@@ -33,7 +34,13 @@
 
 ## 🌟 Overview
 
-**Your Story Community** is a full-stack web application that empowers users to share their stories, engage with content through comments and likes, follow other users, and receive real-time notifications. Built with modern technologies and best practices, it's designed to be scalable, maintainable, and user-friendly.
+**Your Story Community** is a community platform where users can share their stories, connect with others, and engage through comments, likes, and follows. This is the community hub for [YourStory](https://yourstory-orcin.vercel.app/), built to foster a vibrant storytelling community.
+
+### About YourStory
+
+- **Company Portfolio:** [yourstory-portfolio.vercel.app](https://yourstory-portfolio.vercel.app/)
+- **Main Product:** [yourstory-orcin.vercel.app](https://yourstory-orcin.vercel.app/)
+- **Community Platform:** This repository (yourstory-community)
 
 ### Why Your Story Community?
 
@@ -42,6 +49,7 @@
 - 🔐 **Secure** - Token-based authentication with Laravel Sanctum
 - 📱 **Mobile-First** - Responsive design that works on all devices
 - 🚀 **Production-Ready** - Docker support, comprehensive testing, and documentation
+- 🤝 **Community-Driven** - Built to connect storytellers and readers
 
 ---
 
@@ -787,7 +795,9 @@ SOFTWARE.
 
 ## 📞 Contact & Support
 
-**Repository:** https://github.com/Bangkah/yourstory-community  
+**Community Repository:** https://github.com/Bangkah/yourstory-community  
+**Company Website:** https://yourstory-portfolio.vercel.app/  
+**Main Product:** https://yourstory-orcin.vercel.app/  
 **Issues:** https://github.com/Bangkah/yourstory-community/issues  
 **Discussions:** https://github.com/Bangkah/yourstory-community/discussions
 
@@ -802,7 +812,14 @@ SOFTWARE.
 
 ## 🙏 Acknowledgments
 
-Built with these amazing technologies:
+### Part of YourStory Ecosystem
+
+This community platform is part of the YourStory family:
+- **[YourStory App](https://yourstory-orcin.vercel.app/)** - Main storytelling platform
+- **[YourStory Portfolio](https://yourstory-portfolio.vercel.app/)** - Company website
+- **YourStory Community** - This repository (community hub)
+
+### Built with Amazing Technologies
 
 - **[Laravel](https://laravel.com)** - The PHP Framework
 - **[React](https://react.dev)** - UI Library
@@ -842,11 +859,13 @@ Built with these amazing technologies:
 
 <div align="center">
 
-**Made with ❤️ by the Your Story Community Team**
+**Made with ❤️ by the YourStory Team**
+
+Part of the [YourStory](https://yourstory-orcin.vercel.app/) ecosystem
 
 ⭐ Star us on GitHub if you find this project useful!
 
-[Report Bug](https://github.com/Bangkah/yourstory-community/issues) · [Request Feature](https://github.com/Bangkah/yourstory-community/issues) · [Documentation](https://github.com/Bangkah/yourstory-community#documentation)
+[Main Product](https://yourstory-orcin.vercel.app/) · [Company Portfolio](https://yourstory-portfolio.vercel.app/) · [Report Bug](https://github.com/Bangkah/yourstory-community/issues) · [Documentation](https://github.com/Bangkah/yourstory-community#documentation)
 
 </div>
 ```

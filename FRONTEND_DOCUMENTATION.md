@@ -1,8 +1,13 @@
-# Frontend Documentation
+# Frontend Documentation - Your Story Community
 
 ## Overview
 
-Your Story Community frontend is a modern React application built with TypeScript, Inertia.js, and Tailwind CSS. It provides an intuitive and responsive interface for users to share stories, interact with content, and manage their profiles.
+Your Story Community frontend is the community platform component of the YourStory ecosystem. Built with modern React, TypeScript, Inertia.js, and Tailwind CSS, it provides an intuitive and responsive interface for users to share stories, interact with content, and manage their profiles.
+
+### YourStory Ecosystem
+- **Company Portfolio:** [yourstory-portfolio.vercel.app](https://yourstory-portfolio.vercel.app/)
+- **Main Product:** [yourstory-orcin.vercel.app](https://yourstory-orcin.vercel.app/)
+- **Community Platform:** This repository - Community hub for storytellers
 
 ## 🛠 Tech Stack
 
@@ -773,6 +778,12 @@ When contributing to the frontend:
 5. Ensure accessibility (ARIA labels, keyboard navigation)
 6. Write meaningful commit messages
 
-## 📝 License
+## � Related Projects
+
+- **[YourStory App](https://yourstory-orcin.vercel.app/)** - Main storytelling platform
+- **[YourStory Portfolio](https://yourstory-portfolio.vercel.app/)** - Company website
+- **[Community Repository](https://github.com/Bangkah/yourstory-community)** - This project
+
+## �📝 License
 
 MIT License - see LICENSE file for details
